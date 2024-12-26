@@ -3,5 +3,6 @@ const say = ()=>{
 }
 
 const say2 = ()=>{
-    console.log('hi2')
+    console.log('hadadad')
 }
+
